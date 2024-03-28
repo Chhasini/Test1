@@ -1,4 +1,4 @@
-public class Sample
+public class sample
 {
     public static void main(String[] args){
         int num1 = 5, num2 = 7;
