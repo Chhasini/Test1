@@ -2,9 +2,8 @@
 
 public class EvenOrOdd{
     public static void main(String[] args){
-        // Scanner sc = new Scanner(System.in);
-        // int x = sc.nextInt();
-        if(x % 2 == 0){
+         int num = 10;
+        if (num % 2 == 0) {
             System.out.println("even number");
         }
         else{
